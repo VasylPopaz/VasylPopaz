@@ -1,14 +1,12 @@
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vasyl</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=26&pause=1000&color=00B2DF&center=true&width=1000&lines=Junior+Fullstack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=28&pause=1000&color=00B2DF&center=true&width=500&lines=Junior+Fullstack+Developer" />
 </div>
 
 <div id="header" align="center">
  <img alt="deweloper.gif" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
-
-
 
 <h3 align="left">📫 How to reach me:</h3>
 <div style="display: flex; gap: 10px;">
@@ -41,4 +39,5 @@
 <h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1TPn2bbQzNiROwTYn5skXBshjF_RULaX8/view?usp=sharing" style="text-decoration: none; color: inherit;">[CV]</a></h3>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=@vasylpopaz&icon=3&color=1)](https://visitcount.itsvg.in)
