@@ -11,8 +11,10 @@
 <h3 align="left">📫 How to reach me:</h3>
 <div style="display: flex; gap: 10px;">
 <a href="https://www.linkedin.com/in/vasyl-popaz/" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-<a href="https://t.me/vasyl_popaz" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 <a href="mailto:vasylpopaz@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://t.me/vasyl_popaz" style="text-decoration: none;"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://api.whatsapp.com/qr/GURCLAMFS3PIL1?autoload=1&app_absent=0" style="text-decoration: none;"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 </div>
 
 ---
