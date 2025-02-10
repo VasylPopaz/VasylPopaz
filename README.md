@@ -8,7 +8,6 @@
  <img alt="deweloper.gif" src="https://github.com/EuJinnLucaShow/EuJinnLucaShow/blob/main/img/deweloper.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
 
-
 <h3 align="left">📫 How to reach me:</h3>
 <div style="display: flex; gap: 10px;">
 <a href="https://www.linkedin.com/in/vasyl-popaz/" style="text-decoration: none;"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
@@ -39,12 +38,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/VasylPopaz" style="text-decoration: none;">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasylpopaz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vasylpopaz" style="margin-right: 20px;" height="150" />
-</a>
-<a href="https://github.com/VasylPopaz" style="text-decoration: none;">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasylpopaz&theme=tokyonight" alt="vasylpopaz" height="150"/>
-</a>
+<div style="display: flex; gap: 20px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VasylPopaz&show_icons=true&theme=react&locale=en&layout=compact&card_width=350&hide_border=true" alt="Most used languages" height="150" />
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=VasylPopaz&theme=react&hide_border=true" alt="Streak stats" height="150" />
+</div>
 
 ---
 
