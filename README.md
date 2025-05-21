@@ -43,11 +43,11 @@
    <img src="https://github-readme-streak-stats.herokuapp.com?user=VasylPopaz&theme=react&hide_border=true" alt="Streak stats" height="150" />
 </div>
 
----
+<!-- --- -->
 
-<h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1TPn2bbQzNiROwTYn5skXBshjF_RULaX8/view?usp=sharing" style="text-decoration: none; color: inherit;">[CV]</a></h3>
+<!-- <h3 align="left">📄 Know about my experiences <a href="https://drive.google.com/file/d/1TPn2bbQzNiROwTYn5skXBshjF_RULaX8/view?usp=sharing" style="text-decoration: none; color: inherit;">[CV]</a></h3> -->
 
----
+<!-- --- -->
 
 [![](https://visitcount.itsvg.in/api?id=@vasylpopaz&icon=3&color=1)](https://visitcount.itsvg.in)
 ![GitHub Views](https://komarev.com/ghpvc/?username=vasylpopaz&color=595959)
